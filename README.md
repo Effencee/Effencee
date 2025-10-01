@@ -26,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=vscode,figma,git,github" />
 
 <h2>Stats</h2>
-<div align="center">
+<div>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Effencee&theme=transparent" alt="GitHub Streak" />
   <br/>
   <img src="https://github-readme-stats-ten-omega.vercel.app/api?username=Effencee&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats" /> 
