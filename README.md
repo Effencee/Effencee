@@ -27,7 +27,9 @@
 
 <h2>Stats</h2>
 <div align="center">
-  <img src="https://github-readme-stats-ten-omega.vercel.app/api?username=Effencee&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Effencee&theme=transparent" alt="GitHub Streak" />
+  <br/>
+  <img src="https://github-readme-stats-ten-omega.vercel.app/api?username=Effencee&show_icons=true&count_private=true&theme=transparent" alt="GitHub Stats" /> 
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Effencee&layout=compact&theme=transparent" alt="Top Languages" />
 </div>
