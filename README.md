@@ -13,7 +13,7 @@
   <li>📚 I'm currently learning <b>Node.js Express MongoDB</b></li>
   <li>🎨 Alongside my current work, I’m <b>designing in Figma</b> the project I’ll tackle next</li>
   <li>💻 Favourite languages <b>React | Tailwind</b></li>
-  <li>⚡ Fun fact -> <b>Silence sometimes can be loud</b></li>
+  <li>🧠 I'm going to learn <b>TypeScript Next.js</b></li>
 </ul>
 
 <h2>💻 Languages-Frameworks</h2>
